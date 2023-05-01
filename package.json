@@ -15,8 +15,8 @@
     "contracts"
   ],
   "dependencies": {
-    "@uniswap/lib": "4.0.1-alpha",
-    "@uniswap/v2-core": "1.0.0"
+    "@mageswap/lib": "github:mageswap/lib",
+    "@mageswap/v2-core": "github:mageswap/v2-core"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",
